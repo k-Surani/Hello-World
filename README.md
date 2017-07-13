@@ -1,2 +1,2 @@
 # Hello-World
-This is Surani. Jus ttrying out GitHub...3 years after creating the account :)
+This is Surani. Just trying out GitHub...3 years after creating the account :)
